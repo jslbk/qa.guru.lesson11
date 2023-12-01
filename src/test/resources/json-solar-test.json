@@ -1,0 +1,11 @@
+{
+  "model": "3CX-500",
+  "name": "Huston Rocket",
+  "price": 199.99,
+  "warranty": 25,
+  "color": [
+    "Black",
+    "Red",
+    "Blue"
+  ]
+}
